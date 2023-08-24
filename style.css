@@ -38,12 +38,13 @@ span {
 
 .image {
     height: 400px;
+    box-shadow: 10px 10px gray;
     border-radius: 20px;
-    box-shadow: 5px 5px gray;
     background-image: url(images/grunge-paint-background_1409-1337.png);
     background-repeat: no-repeat;
     margin-top: 20px;
 }
+
 
 .image img {
     border-radius: 50%;
